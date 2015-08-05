@@ -1,8 +1,8 @@
 Research Software Engineering Groups in Colleges: The Story from the UK
 =======================================================================
 
-Authors: James Hetherington, Simon Hettrick, James Spencer, Mark Stillwell
-(@all add names here)
+Authors: James Hetherington, Simon Hettrick, James Spencer, Mark Stillwell,
+Robert Haines (@all add names here)
 
 In the UK, the last few years have seen increasing adoption of the title
 "Research Software Engineer", to refer to those members of the research
@@ -17,7 +17,7 @@ performance measured against traditional academic career metrics (e.g.,
 publications, grants). This is an unsatisfactory approach, as they are then
 isolated and unable to learn from other scientific programmers. They are also
 discouraged from applying their skills where they might have the greatest
-impact: Since efforts related to software quality and dissemination do not
+impact: since efforts related to software quality and dissemination do not
 facilitate progression in academic career tracks, they are quickly lost to
 research, a leading cause of lack of sustainability and degradation of quality
 in the research code inventory[@groen2015sdp]. 
@@ -40,12 +40,13 @@ training researchers in reproducible computational research skills is the
 typical approach. Such groups now exist at University College London,
 Manchester, Southampton, Bristol and Sheffield, and more continue to emerge.
 
-Funding to establish the Research Software Engineer role in the UK has been
-created through a new Research Software Engineering Fellowship offered by the
-UK Engineering and Physical Sciences Research Council. This offers
-a prestigious research council fellowship for expert collaborative support,
-rather than an independent research programme, a first of its kind, and, we
-believe, an important contribution to the future of team-based science.
+In addition to the groups at the institutions listed above, funding to
+establish the Research Software Engineer role in the UK is being provided by
+a new Research Software Engineering Fellowship offered by the Engineering and
+Physical Sciences Research Council. This offers a prestigious research
+council fellowship for expert collaborative support, rather than an
+independent research programme, a first of its kind, and, we believe, an
+important contribution to the future of team-based science.
 
 The nature of the RSE role in colleges contrasts those in national labs, which
 have long offered a stable home for scientific programmers on large, sustained,
@@ -53,4 +54,3 @@ important software projects. However, the majority of scientific software is
 the longer tail of research software used and developed in research groups in
 colleges all over the world. The University RSE group offers a promising
 solution to improve the quality and sustainability of these activities.
-
