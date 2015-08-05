@@ -1,7 +1,7 @@
 Research Software Engineering Groups in Colleges: The Story from the UK
 ===============================================================================================
 
-Authors: James Hetherington, Simon Hettrick, (@all add names here)
+Authors: James Hetherington, Simon Hettrick, James Spencer (@all add names here)
 
 In the UK, the last few years have seen increasing adoption of the title "Research Software Engineer",
 to refer to those members of the research community who principally contribute to the research effort
