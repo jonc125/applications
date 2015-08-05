@@ -23,7 +23,13 @@ programmers. Demand for the efforts of these groups is high, with rapid growth t
 common. A mixed model of both free-at-the-point of use programming services offered to the university,
 growth through grant funded project work, and leadership on training researchers in reproducible
 computational research skills is the typical approach. Such groups now exist at University College London, 
-Manchester, Southampton, Bristol and Sheffield, and more continue to emerge.
+Manchester, Southampton, Bristol and Sheffield, and more continue to emerge. 
+
+Funding to establish the Research Software Engineer role in the UK has been created
+through a new Research Software Engineering Fellowship offered by the UK
+Engineering and Physical Sciences Research Council. This offers a prestigious research
+council fellowship for expert collaborative support, rather than an independent research programme,
+a first of its kind, and, we believe, an important contribution to the future of team-based science.
 
 The nature of the RSE role in colleges contrasts those in national labs, which have long offered a
 stable home for scientific programmers on large, sustained, important software projects.
